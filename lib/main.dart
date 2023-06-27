@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:gov_ser_flutter_app/utils/routes_utils.dart';
 import 'package:gov_ser_flutter_app/views/screens/home_page.dart';
+import 'package:gov_ser_flutter_app/views/screens/web_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -19,6 +20,7 @@ class MyApp extends StatelessWidget {
       ),
       routes: {
         AllRoutes.homepage: (context) => home_page(),
+        AllRoutes.WebsidePage: (context) => web_page(),
       },
     );
   }
