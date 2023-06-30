@@ -43,7 +43,7 @@ class home_page extends StatelessWidget {
                           child: Column(
                             children: [
                               SizedBox(
-                                height: s.height * 0.8,
+                                height: s.height * 0.85,
                                 child: GridView.builder(
                                   itemCount: AllWebside.length,
                                   gridDelegate:

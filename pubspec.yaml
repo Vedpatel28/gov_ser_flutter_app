@@ -38,6 +38,7 @@ dependencies:
   connectivity_plus:
   google_fonts:
   shared_preferences:
+  flutter_inappwebview:
   provider:
 
 dev_dependencies:
