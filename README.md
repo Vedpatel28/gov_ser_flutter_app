@@ -1,16 +1,7 @@
 # gov_ser_flutter_app
 
-A new Flutter project.
+https://github.com/Vedpatel28/gov_ser_flutter_app/assets/130833918/5b86f953-fc98-41af-8ed6-f3308ba47d7c
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+<img src = "https://github.com/Vedpatel28/gov_ser_flutter_app/assets/130833918/33505c5a-135d-4f3c-961b-aa339259e2b7" height = "350"></img>
+<img src = "https://github.com/Vedpatel28/gov_ser_flutter_app/assets/130833918/e3750435-cb63-4dd5-981a-1fcafcc4dacf" height = "350"></img>
